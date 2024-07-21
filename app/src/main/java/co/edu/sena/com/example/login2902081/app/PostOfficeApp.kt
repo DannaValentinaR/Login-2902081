@@ -1,4 +1,18 @@
 package co.edu.sena.com.example.login2902081.app
 
-class PostOfficeApp {
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.material3.Surface
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
+
+@Composable
+fun PostOfficeApp() {
+    Surface(
+        modifier = Modifier.fillMaxSize(),
+        color = Color.White
+
+    ) {
+
+    }
 }
